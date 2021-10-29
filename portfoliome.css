@@ -1,0 +1,29 @@
+.styled-link {
+    font-size: 20px;
+    color: blue;
+}
+body {
+	background-color: white;
+}
+#about_me{
+	font-style:italic;
+}
+.red{
+	font-style:italic;
+	color: blue;
+}
+span{
+	color: blue;
+	font-style:italic;
+}
+ul{
+	list-style-image: url('https://findicons.com/files/icons/573/must_have/16/check.png');
+}
+p{
+	border-color: red;
+	border-style: outset; /*groove, double,dotted,dashed,solid,outset*/
+	border-width: 10px;
+}
+h1{
+	text-shadow: 3px -3px 1px orange;
+}
